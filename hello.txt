@@ -1,4 +1,9 @@
 hello,hi
 
 Can we meet tmrw?
+<<<<<<< HEAD
 no,i can't
+=======
+
+Yes,we can
+>>>>>>> feature
